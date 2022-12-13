@@ -1,0 +1,214 @@
+
+
+<script async="async" data-cfasync="false" src="//outrightsham.com/bab3541eb3361625a70324d3963a7eb4/invoke.js"></script>
+<script type='text/javascript' src='//outrightsham.com/d4/90/67/d490678a2fb272c7188ae15ee1120ed3.js'></script>
+
+<style>
+      svg {
+        font-size: 28px;
+      }
+</style>
+
+<div style="display: none;">
+	Descargar Libro PDF Historia del mundo de WarCraft
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+
+<img style="display: none;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif6tGkL2jCFzikMd0gsE-fN2CdeYVitv6d87qqPH1ZQG1JMioOQIYjIADe1IDChl_1DtuzPO3awn8KU6dSFQ8p8mLFzOO486uwAPXy4QhEgWKoI4n6jQiGvubre0e6ykZ1Wk_y1_Nf1NkvTAI_Go4MsWSsOhHOqXBBvzlkI-uByCwmeowR57DaaT4o/s320/image-warcraft.jpg"/>
+
+<div id="kkk" class="jjj" style="display: none;">
+    { 
+  
+  	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif6tGkL2jCFzikMd0gsE-fN2CdeYVitv6d87qqPH1ZQG1JMioOQIYjIADe1IDChl_1DtuzPO3awn8KU6dSFQ8p8mLFzOO486uwAPXy4QhEgWKoI4n6jQiGvubre0e6ykZ1Wk_y1_Nf1NkvTAI_Go4MsWSsOhHOqXBBvzlkI-uByCwmeowR57DaaT4o/s320/image-warcraft.jpg",
+ 	"autor": "Blizzard Entertainment", 
+  	"link1": "https://www.dropbox.com/s/mmsjtglzn8902ym/Historia%20del%20mundo%20de%20WarCraft%20-%20Blizzard%20Entertainment%20%28wotrolib.blogspot.com%29.pdf?dl=1",
+    "link2": "https://drive.google.com/uc?export=download&id=10JiVJP4YtVjkvoOg_eEGGuPqGvmcz8zl",
+    "link3": "https://onedrive.live.com/download?cid=0D9C0082F5518761&resid=D9C0082F5518761%21105&authkey=AIiLvKA7CxKuFE4&em=2" 
+  }
+  
+</div>
+
+
+    <div class="row" style="margin-top: 2px">
+      <div class="row">
+        <div class="col m1 l2"></div>
+        <div class="col s12 m10 l8">
+          <div
+            class="card"
+            style="background-color: #1f1f1f; margin-bottom: 1px"
+          >
+            <div class="card-content white-text">
+              <!-- <span class="card-title">Card Title</span> -->
+
+              <div id="aaa" class="row" style="margin-bottom: 0"></div>
+            </div>
+          </div>
+        </div>
+        <div class="col m1 l2"></div>
+      </div>
+    </div>
+
+
+
+<script>
+      $(document).ready(function () {
+        let dataLDE = JSON.parse(
+          $('script[type="application/ld+json"]')[0].textContent
+        );
+        let dataBook = JSON.parse($(".jjj")[0].textContent);
+        let aaa = document.getElementById("aaa");
+
+        let titleFull = dataLDE.headline;
+
+        let id = titleFull.split(" ")[0];
+        let title = titleFull.split(" ").slice(1).join(" ");
+        let link = dataLDE.mainEntityOfPage["@id"];
+        let autor = dataBook.autor;
+        let image = dataBook.image;
+        let lk1 = dataBook.link1;
+        let lk2 = dataBook.link2;
+        let lk3 = dataBook.link3;
+
+     
+
+        aaa.innerHTML = `
+        		
+                
+              <div class="col s2"></div>
+
+                <div class="col s8">
+                  <img
+                    style="margin-left: auto; margin-right: auto"
+                    class="materialboxed"
+                    width="200"
+                    src="${image}"
+                  />
+                </div>
+
+                <div class="col s2"></div>
+
+                <div class="col s12 center" style="margin-top: 10px">
+                  <strong style="font-size: 18px"
+                    >${title}</strong
+                  >
+                </div>
+                <div class="col s12 center" style="margin-top: 1px">
+                  <span>Author:</span> <i>${autor}</i>
+                </div>
+
+                <div class="col s12 center">
+                  <span style="color: #6cf3e6">ID: ${id}</span>
+                </div>
+
+                <div class="col s12 center">
+
+                  <a class="btnCopy tooltipped-click waves-effect waves-light elem-copy" data-position="right" data-tooltip="link copied" data-clipboard-text="${link}">
+                    
+                    <svg
+                      class="svg-icon"
+                      style="
+                        width: 1em;
+                        height: 1em;
+                        vertical-align: middle;
+                        fill: currentColor;
+                        overflow: hidden;
+                      "
+                      viewBox="0 0 1024 1024"
+                      version="1.1"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M166.4 512c0-72.96 59.306667-132.266667 132.266667-132.266667h170.666666V298.666667h-170.666666C180.906667 298.666667 85.333333 394.24 85.333333 512s95.573333 213.333333 213.333334 213.333333h170.666666v-81.066666h-170.666666c-72.96 0-132.266667-59.306667-132.266667-132.266667z m174.933333 42.666667h341.333334v-85.333334H341.333333v85.333334z m384-256h-170.666666v81.066666h170.666666c72.96 0 132.266667 59.306667 132.266667 132.266667s-59.306667 132.266667-132.266667 132.266667h-170.666666V725.333333h170.666666c117.76 0 213.333333-95.573333 213.333334-213.333333s-95.573333-213.333333-213.333334-213.333333z"
+                      />
+                    </svg>
+                  </a>
+                </div>
+
+                <div
+                  class="col s12 center"
+                  style="margin-top: 0; font-size: 15px"
+                >
+                  <strong>LINKS</strong>
+                </div>
+
+
+                <div class="col s12 center" style="margin-top: 10px">
+                    <a href="${lk1}" class="waves-effect waves-light btn">OPCION 1</a>
+                  </div>
+                  <div class="col s12 center" style="margin-top: 10px">
+                    <a href="${lk2}" class="waves-effect waves-light btn">OPCION 2</a>
+                  </div>
+  
+                  <div class="col s12 center" style="margin-top: 10px">
+                    <a href="${lk3}" class="waves-effect waves-light btn">OPCION 3</a>
+                  </div>
+                  
+                  <div
+                  class="col s12 center"
+                  style="margin-top: 20px; font-size: 15px"
+                >
+                  <strong>SIGUENOS EN</strong>
+                </div>
+
+                <div class="col s12 center">
+          <a class="waves-effect waves-light" href="https://t.me/wotrolib">
+            <svg
+              fill="#6cf3e6"
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 50 50"
+              width="40px"
+              height="40px"
+            >
+              <path
+                d="M46.137,6.552c-0.75-0.636-1.928-0.727-3.146-0.238l-0.002,0C41.708,6.828,6.728,21.832,5.304,22.445	c-0.259,0.09-2.521,0.934-2.288,2.814c0.208,1.695,2.026,2.397,2.248,2.478l8.893,3.045c0.59,1.964,2.765,9.21,3.246,10.758	c0.3,0.965,0.789,2.233,1.646,2.494c0.752,0.29,1.5,0.025,1.984-0.355l5.437-5.043l8.777,6.845l0.209,0.125	c0.596,0.264,1.167,0.396,1.712,0.396c0.421,0,0.825-0.079,1.211-0.237c1.315-0.54,1.841-1.793,1.896-1.935l6.556-34.077	C47.231,7.933,46.675,7.007,46.137,6.552z M22,32l-3,8l-3-10l23-17L22,32z"
+              />
+            </svg>
+          </a>
+
+          <span style="margin-left: 4px; margin-right: 4px"></span>
+
+          <a
+            class="waves-effect waves-light"
+            href="https://www.tiktok.com/@wotrolib"
+          >
+            <svg
+              fill="#6cf3e6"
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 50 50"
+              width="40px"
+              height="40px"
+            >
+              <path
+                d="M41,4H9C6.243,4,4,6.243,4,9v32c0,2.757,2.243,5,5,5h32c2.757,0,5-2.243,5-5V9C46,6.243,43.757,4,41,4z M37.006,22.323 c-0.227,0.021-0.457,0.035-0.69,0.035c-2.623,0-4.928-1.349-6.269-3.388c0,5.349,0,11.435,0,11.537c0,4.709-3.818,8.527-8.527,8.527 s-8.527-3.818-8.527-8.527s3.818-8.527,8.527-8.527c0.178,0,0.352,0.016,0.527,0.027v4.202c-0.175-0.021-0.347-0.053-0.527-0.053 c-2.404,0-4.352,1.948-4.352,4.352s1.948,4.352,4.352,4.352s4.527-1.894,4.527-4.298c0-0.095,0.042-19.594,0.042-19.594h4.016 c0.378,3.591,3.277,6.425,6.901,6.685V22.323z"
+              />
+            </svg>
+          </a>
+        </div>
+        
+        <div class ="row">
+			<div class="col s12">
+				<div id="container-bab3541eb3361625a70324d3963a7eb4"></div>
+			</div>
+		</div>
+                  
+        `;
+
+        $(".sidenav").sidenav();
+        $(".materialboxed").materialbox();
+        var clipboard = new ClipboardJS(".btnCopy");
+
+        $(".tooltipped-click").click(function () {
+          $(this).tooltip();
+          $(this).tooltip("open");
+        });
+        $(".tooltipped-click").mouseleave(function () {
+          if ($(this).tooltip()) {
+            $(this).tooltip("destroy");
+          }
+        });
+
+        // instances[0].open();
+      });
+    </script>
+    

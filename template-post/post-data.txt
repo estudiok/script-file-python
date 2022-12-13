@@ -1,0 +1,8 @@
+ { 
+  
+  	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif6tGkL2jCFzikMd0gsE-fN2CdeYVitv6d87qqPH1ZQG1JMioOQIYjIADe1IDChl_1DtuzPO3awn8KU6dSFQ8p8mLFzOO486uwAPXy4QhEgWKoI4n6jQiGvubre0e6ykZ1Wk_y1_Nf1NkvTAI_Go4MsWSsOhHOqXBBvzlkI-uByCwmeowR57DaaT4o/s320/image-warcraft.jpg",
+ 	"autor": "Blizzard Entertainment", 
+  	"link1": "https://www.dropbox.com/s/mmsjtglzn8902ym/Historia%20del%20mundo%20de%20WarCraft%20-%20Blizzard%20Entertainment%20%28wotrolib.blogspot.com%29.pdf?dl=1",
+    "link2": "https://drive.google.com/uc?export=download&id=10JiVJP4YtVjkvoOg_eEGGuPqGvmcz8zl",
+    "link3": "https://onedrive.live.com/download?cid=0D9C0082F5518761&resid=D9C0082F5518761%21105&authkey=AIiLvKA7CxKuFE4&em=2" 
+}
